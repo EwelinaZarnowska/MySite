@@ -85,13 +85,13 @@ a:hover {
 
 .top-cloud {
     position: absolute;
-    right: 500px;
+    right: 250;
     top: 70px;
 }
 
 .bottom-cloud {
     position: absolute;
-    left: 500px;
+    left: 250;
     bottom: 250px;
 }
 
